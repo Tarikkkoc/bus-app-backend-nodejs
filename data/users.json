@@ -1,0 +1,23 @@
+[
+  {
+    "username": "tarikkoc",
+    "password": "tarikkoc",
+    "name": "Tarık",
+    "surname": "Koç",
+    "mail": "tarikkoc@native.com"
+  },
+  {
+    "username": "ahmetkoc",
+    "password": "ahmetkoc123",
+    "name": "Ahmet",
+    "surname": "Koç",
+    "mail": "ahmetkoc@native.com"
+  },
+  {
+    "username": "oflifurkan",
+    "password": "furkan",
+    "name": "Furkan",
+    "surname": "Demircioglu",
+    "mail": "oflifurkan@native.com"
+  }
+]
